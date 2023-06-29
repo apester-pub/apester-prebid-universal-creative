@@ -1,7 +1,7 @@
 {
     "name": "apester-prebid-universal-creative",
     "version": "1.16.0-pre",
-    "description": "Universal creative for Prebid apps",
+    "description": "Universal creative for Prebid apps - Apester.com",
     "main": "dist/creative.js",
     "scripts": {
         "test": "gulp test",
