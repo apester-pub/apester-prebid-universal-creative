@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/prebid/prebid-universal-creative.git"
+        "url": "git+git@github.com:apester-pub/prebid-universal-creative.git"
     },
     "keywords": [
         "Prebid.js"
